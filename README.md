@@ -82,3 +82,7 @@ Removes all of the existing cookies.
 ```js
   CookieManager.clear();
 ```
+
+## Author and License
+Created and maintained by [Shaninath](https://github.com/shaninathpawargit/cookie-manager-js) under [MIT](LICENSE.md) License
+ 
